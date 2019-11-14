@@ -23,3 +23,11 @@
 }
 
 .grayscale { filter: grayscale(100%); }
+
+.arrow {
+        float: right;
+    display: inline;
+    position: relative;
+    top: 50%;
+    margin-right: 10px;
+}

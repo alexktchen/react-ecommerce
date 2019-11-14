@@ -12,7 +12,7 @@ class ListItem extends React.Component {
 
         return (
           <div className="panel">
-            <img alt="" className={ imageColor } src={this.props.logo} />
+            <img alt="" className={imageColor} src={this.props.logo} />
             <div className="descPanel">
               <div>
                 <div style={{ display: "inline" }}>{this.props.statusType}</div>
@@ -22,6 +22,7 @@ class ListItem extends React.Component {
               </div>
               <div className="subDesc">{this.props.name}</div>
             </div>
+            <i className="fas fa-chevron-right arrow"></i>
           </div>
         );
     }
