@@ -16,4 +16,4 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-![image](https://github.com/alexktchen/react-ecommerce/blob/master/screenshot.png)
+![image](https://github.com/alexktchen/react-ecommerce/blob/master/screenshot1.png)
