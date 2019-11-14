@@ -1,0 +1,25 @@
+.headerPanel {
+   border: #e0e0e0 1px solid;
+   border-top-style: none;
+   width: 500px;
+   height: 50px;
+   background-color: #f1f2f2;
+}
+
+.headerIcon {
+    width: 6px;
+    height: 20px;
+    background-color: #139239;
+    display: inline;
+    float: left;
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.headerText {
+    display: inline;
+    float: left;
+    margin-top: 12px;
+    margin-right: 20px;
+}

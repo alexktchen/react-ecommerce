@@ -1,0 +1,25 @@
+.descPanel {
+    display: inline;
+    float: left;
+    padding-top: 15px;
+    width: 340px;
+}
+
+.imgStyle {
+    height: 80px;
+    display: inline;
+    float: left;
+    margin: 20px;
+}
+
+.panel {
+   border: #e0e0e0 1px solid;
+   border-top-style: none;
+   width: 500px;
+}
+
+.subDesc {
+    margin-top: 10px;
+}
+
+.grayscale { filter: grayscale(100%); }
